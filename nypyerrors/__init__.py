@@ -1,0 +1,1 @@
+# NiPyErrors package initialization
